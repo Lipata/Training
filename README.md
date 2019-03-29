@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/Lipata/Training.svg?branch=master)](https://travis-ci.org/Lipata/Training)
+[![Build Status](https://dev.azure.com/NAlipiev/Training/_apis/build/status/Lipata.Training?branchName=master)](https://dev.azure.com/NAlipiev/Training/_build/latest?definitionId=1&branchName=master)
 
 # IG Project
 

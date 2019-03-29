@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Lipata/Training.svg?branch=master)](https://travis-ci.org/Lipata/Training)
+
 # IG Project
 
 This project was generated with [Ignite UI CLI](https://github.com/IgniteUI/igniteui-cli) version 1.0.0.
